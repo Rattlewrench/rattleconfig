@@ -6,4 +6,5 @@ Designed to use in conjuction with [mastercomfig](https://github.com/mastercoms/
 While masterconfig's `.vpk` file should be located in the `~/tf/custom`.
 
 Don't forget to add following to the TF2's Launch Options:
+
 `-novid -nojoy -nosteamcontroller -softparticlesdefaultoff -reuse -nostartupsound -refresh 119.98 -console -dxlevel 92 -gl_enablesamplerobjects`
